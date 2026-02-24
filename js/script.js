@@ -17,45 +17,45 @@ document.querySelectorAll('.mobile-menu a').forEach(link => {
 const products = [
     {
         id: 1,
-        name: "Face Abstrak T-Shirt",
+        name: "Crazy T-Shirt",
         price: 75000,
         emotion: "Kacau",
-        image: "assets/muka-abstrak-biru.png"
+        image: "assets/produk1.png"
     },
     {
         id: 2,
-        name: "Face Abstrak T-Shirt",
+        name: "Stuck T-Shirt",
         price: 75000,
-        emotion: "Kacau",
-        image: "assets/muka-abstrak-biru.png"
+        emotion: "Lemah",
+        image: "assets/produk2.png"
     },
     {
         id: 3,
-        name: "Face Abstrak T-Shirt",
+        name: "Crazy T-Shirt",
         price: 75000,
         emotion: "Kacau",
-        image: "assets/muka-abstrak-biru.png"
+        image: "assets/produk1.png"
     },
     {
         id: 4,
-        name: "Face Abstrak T-Shirt",
+        name: "Stuck T-Shirt",
         price: 75000,
-        emotion: "Kacau",
-        image: "assets/muka-abstrak-biru.png"
+        emotion: "Lemah",
+        image: "assets/produk2.png"
     },
     {
         id: 5,
-        name: "Face Abstrak T-Shirt",
+        name: "Crazy T-Shirt",
         price: 75000,
         emotion: "Kacau",
-        image: "assets/muka-abstrak-biru.png"
+        image: "assets/produk1.png"
     },
     {
         id: 6,
-        name: "Face Abstrak T-Shirt",
+        name: "Stuck T-Shirt",
         price: 75000,
-        emotion: "Kacau",
-        image: "assets/muka-abstrak-biru.png"
+        emotion: "Lemah",
+        image: "assets/produk2.png"
     }
 ];
 
