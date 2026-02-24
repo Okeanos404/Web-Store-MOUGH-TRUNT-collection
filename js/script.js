@@ -31,10 +31,10 @@ const products = [
     },
     {
         id: 3,
-        name: "Crazy T-Shirt",
+        name: "Stuck 2 T-Shirt",
         price: 75000,
-        emotion: "Kacau",
-        image: "assets/produk1.png"
+        emotion: "Lemah",
+        image: "assets/produk3.png"
     },
     {
         id: 4,
@@ -52,10 +52,10 @@ const products = [
     },
     {
         id: 6,
-        name: "Stuck T-Shirt",
+        name: "Stuck 2 T-Shirt",
         price: 75000,
         emotion: "Lemah",
-        image: "assets/produk2.png"
+        image: "assets/produk3.png"
     }
 ];
 
